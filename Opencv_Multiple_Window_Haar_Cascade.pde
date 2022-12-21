@@ -2,7 +2,6 @@ import java.awt.Frame;
 import processing.awt.PSurfaceAWT;
 import processing.awt.PSurfaceAWT.SmoothCanvas;
 PWindow win;
-import ipcapture.*;
 import gab.opencv.*;
 import java.awt.*;
 import processing.video.*;
